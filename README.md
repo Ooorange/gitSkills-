@@ -7,4 +7,9 @@ Creating a new branch is quick & simple.
 =======
 Creating a new branch is quick and simple.
 >>>>>>> dev
+<<<<<<< HEAD
 i working to make a bug
+=======
+git is a free sofeware,and i solved the solution
+>>>>>>> issue110
+fix conflicts
